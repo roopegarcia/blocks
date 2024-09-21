@@ -1,0 +1,25 @@
+/* ==========================================================================
+ # Blocks
+========================================================================== */
+
+.entry__content > * {
+  max-width: 840px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.entry__content > .alignwide {
+  max-width: 1440px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.entry__content > .alignfull {
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}

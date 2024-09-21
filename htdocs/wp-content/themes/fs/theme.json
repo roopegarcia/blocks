@@ -1,0 +1,190 @@
+{
+	"version": 3,
+	"settings": {
+		"layout": {
+			"contentSize": "840px",
+			"wideSize": "1440px"
+		},
+		"color": {
+			"custom": false,
+			"defaultPalette": false,
+			"gradients": [],
+			"customGradient": false,
+			"defaultGradients": false,
+			"text": false,
+			"palette": [
+				{
+					"slug": "valkoinen",
+					"color": "var(--color-white)",
+					"name": "Valkoinen"
+				},
+				{
+					"slug": "musta",
+					"color": "var(--color-black)",
+					"name": "Musta"
+				},
+        {
+					"slug": "purple",
+					"color": "var(--color-purple)",
+					"name": "Purppura"
+				},
+        {
+					"slug": "pink",
+					"color": "var(--color-pink)",
+					"name": "Pink"
+				}
+			]
+		},
+        "spacing": {
+            "margin": true,
+            "padding": true
+        },
+		"shadow": {
+			"defaultPresets": false
+		},
+		"border": {
+			"color": false,
+			"radius": false,
+			"style": false,
+			"width": false
+		},
+        "blocks": {
+			"core/button": {
+				"spacing": {
+					"margin": false,
+					"padding": false
+				},
+				"typography": {
+					"fontSizes": [],
+					"customFontSize": false,
+					"fontStyle": false,
+					"fontWeight": false,
+					"lineHeight": false,
+					"textDecoration": false,
+					"textTransform": false,
+					"letterSpacing": false
+				},
+				"color": {
+					"background": true,
+					"link": false,
+					"text": false,
+					"palette": []
+				},
+				"border": {
+					"customRadius": false,
+					"radius": false
+				}
+			},
+			"core/paragraph": {
+				"spacing": {
+					"margin": false,
+					"padding": false
+				},
+				"typography": {
+					"fontSizes": [],
+					"customFontSize": false,
+					"defaultFontSizes": false,
+					"writingMode": false,
+					"dropCap": false,
+					"textDecoration": false,
+					"letterSpacing": false,
+					"textTransform": false,
+					"fontWeight": false,
+					"fontStyle": false,
+					"lineHeight": false
+				},
+				"color": {
+					"background": false,
+					"link": false,
+					"text": true,
+					"palette": [
+						{
+							"slug": "valkoinen",
+							"color": "var(--color-white)",
+							"name": "Valkoinen"
+						},
+						{
+							"slug": "musta",
+							"color": "var(--color-black)",
+							"name": "Musta"
+						},
+            {
+              "slug": "purple",
+              "color": "var(--color-purple)",
+              "name": "Purppura"
+            },
+            {
+              "slug": "pink",
+              "color": "var(--color-pink)",
+              "name": "Pink"
+            }
+					]
+				}
+			},
+			"core/heading": {
+				"spacing": {
+					"margin": false,
+					"padding": false
+				},
+				"typography": {
+					"fontSizes": [],
+					"customFontSize": false,
+					"defaultFontSizes": false,
+					"writingMode": false,
+					"dropCap": false,
+					"textDecoration": false,
+					"letterSpacing": false,
+					"textTransform": false,
+					"fontWeight": false,
+					"fontStyle": false,
+					"lineHeight": false
+				},
+				"color": {
+					"background": false,
+					"link": false,
+					"text": true,
+					"palette": [
+						{
+							"slug": "valkoinen",
+							"color": "var(--color-white)",
+							"name": "Valkoinen"
+						},
+						{
+							"slug": "musta",
+							"color": "var(--color-black)",
+							"name": "Musta"
+						},
+            {
+              "slug": "purple",
+              "color": "var(--color-purple)",
+              "name": "Purppura"
+            },
+            {
+              "slug": "pink",
+              "color": "var(--color-pink)",
+              "name": "Pinkki"
+            }
+					]
+				}
+			},
+			"core/column": {
+				"color": {
+					"background": true,
+					"text": false
+				}
+			},
+			"core/media-text": {
+				"typography": {
+					"fontSizes": [],
+					"customFontSize": false,
+					"fontStyle": false,
+					"fontWeight": false,
+					"lineHeight": false,
+					"textDecoration": false,
+					"textTransform": false,
+					"letterSpacing": false
+				}
+			}
+		}
+	}
+}

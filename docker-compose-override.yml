@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+    wordpress:
+        network_mode: "bridge"
